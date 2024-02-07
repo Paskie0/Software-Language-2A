@@ -1,7 +1,10 @@
 ﻿using System.Text;
+
+namespace Opdracht_1A
+{
 public class Program
 {
-    static string globalNumber = "5";
+    static readonly string globalNumber = "5";
 
     static void DivideNumbers(double a, double b)
     {
@@ -27,14 +30,14 @@ public class Program
         Console.WriteLine("Global Product: " + result.ToString());
     }
 
-    static void modifyArray() 
+    static void ModifyArray() 
     {
         int[] arr = [1, 2, 3];
         arr[0] += 3;
         Console.WriteLine("Modified Array: " + string.Join(" ", arr));
     }
 
-    static void loopError()
+    static void LoopError()
     {
         for (int i = 5; i != 0; i = Int32.Parse((i / 2).ToString()))
         {
@@ -44,17 +47,17 @@ public class Program
         return;
     }
 
-    static void reverseString(string str)
+    static void ReverseString(string str)
     {
         char[] stringArray = str.ToCharArray();
         Array.Reverse(stringArray);
-        string reversed = new string(stringArray);
+        string reversed = new(stringArray);
         Console.WriteLine("Reversed: " + reversed);
     }
 
-    static void writeFileContent(string filename, string content)
+    static void WriteFileContent(string filename, string content)
     {
-        FileStream fs = new FileStream(filename, FileMode.Open, FileAccess.ReadWrite);
+        FileStream fs = new(filename, FileMode.Open, FileAccess.ReadWrite);
         if (!fs.CanRead)
             {
                 Console.WriteLine("Cannot read file");
@@ -68,16 +71,16 @@ public class Program
         fs.Close();
     }
 
-    static void addStringAsNumbers(string a, string b)
+    static void AddStringAsNumbers(string a, string b)
     {
-        string aInt = new string(a.Where(char.IsDigit).ToArray());
-        string bInt = new string(b.Where(char.IsDigit).ToArray());
+        string aInt = new(a.Where(char.IsDigit).ToArray());
+        string bInt = new(b.Where(char.IsDigit).ToArray());
 
         int result = Int32.Parse(aInt) + Int32.Parse(bInt);
         Console.WriteLine("String Sum: " + result.ToString());
     }
 
-    static void isEvenNumber(int number)
+    static void IsEvenNumber(int number)
     {
         if (number == 0)
         {
@@ -106,17 +109,18 @@ public class Program
 
         MultiplyGlobalNumber(3);
 
-        modifyArray();
+        ModifyArray();
 
-        loopError();
+        LoopError();
 
-        reverseString("Hello World");
+        ReverseString("Hello World");
 
-        writeFileContent("test.txt", "Hello World");
+        WriteFileContent("test.txt", "Hello World");
 
-        addStringAsNumbers("5", "3abc");
+        AddStringAsNumbers("5", "3abc");
 
-        isEvenNumber(10);
-        isEvenNumber(-4);
+        IsEvenNumber(10);
+        IsEvenNumber(-4);
     }
+}
 }
