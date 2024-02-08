@@ -1,0 +1,30 @@
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.exe
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.deps.json
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.runtimeconfig.json
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.pdb
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.AssemblyInfoInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.AssemblyInfo.cs
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.sourcelink.json
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\refint\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.pdb
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.genruntimeconfig.cache
+C:\Users\Pascal\Code\Software-Language-2A\Opdracht 1A\obj\Debug\net8.0\ref\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.exe
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.deps.json
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.runtimeconfig.json
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\bin\Debug\net8.0\Opdracht 1A.pdb
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.AssemblyInfoInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.AssemblyInfo.cs
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.sourcelink.json
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\refint\Opdracht 1A.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.pdb
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\Opdracht 1A.genruntimeconfig.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 1\Opdracht 1A\obj\Debug\net8.0\ref\Opdracht 1A.dll
