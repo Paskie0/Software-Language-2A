@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 1\\Testing\\Testing.csproj": {}
+    "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 2\\Opdracht 2B\\Opdracht 2B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 1\\Testing\\Testing.csproj": {
+    "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 2\\Opdracht 2B\\Opdracht 2B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 1\\Testing\\Testing.csproj",
-        "projectName": "Testing",
-        "projectPath": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 1\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 2\\Opdracht 2B\\Opdracht 2B.csproj",
+        "projectName": "Opdracht 2B",
+        "projectPath": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 2\\Opdracht 2B\\Opdracht 2B.csproj",
         "packagesPath": "C:\\Users\\Pascal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 1\\Testing\\obj\\",
+        "outputPath": "C:\\Users\\Pascal\\Code\\Software-Language-2A\\College 2\\Opdracht 2B\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pascal\\AppData\\Roaming\\NuGet\\NuGet.Config"
