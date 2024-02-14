@@ -4,39 +4,46 @@
     {
         static void Main()
         {
-            Fibonacci(10);
             FizzBuzz();
+            Console.WriteLine();
+            FibonacciItterative(0, 1, 0, 15);
+            Console.WriteLine();
+            Console.WriteLine(FibonacciRecursive(15));
         }
         static void FizzBuzz()
         {
-            for (int i = 1; i <= 99; i++)
+            for (int i = 1; i <= 315; i++)
             {
-                switch (i)
-                {
-                    case var _ when i % 3 == 0 && i % 5 == 0:
-                        Console.WriteLine("FizzBuzz");
-                        break;
-                    case var _ when i % 3 == 0:
-                        Console.WriteLine("Fizz");
-                        break;
-                    case var _ when i % 5 == 0:
-                        Console.WriteLine("Buzz");
-                        break;
-                    case var _ when i % 7 == 0:
-                        Console.WriteLine("Bang");
-                        break;
-                    default:
-                        Console.WriteLine(i);
-                        break;
-                }
+                string s = "";
+
+                if (i % 3 == 0)
+                    s += "Fizz";
+                if (i % 5 == 0)
+                    s += "Buzz";
+                if (i % 7 == 0)
+                    s += "Bang";
+                if (i % 9 == 0)
+                    s += "Boom";
+
+                Console.WriteLine($"{i} {s}");
             }
         }
-        static int Fibonacci(int n)
+        static void FibonacciItterative(int a, int b, int c, int n)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                c = a + b;
+                a = b;
+                b = c;
+                Console.WriteLine(c);
+            }
+        }
+        static public int FibonacciRecursive(int n)
         {
             if (n <= 1)
                 return n;
 
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
+            return FibonacciRecursive(n - 1) + FibonacciRecursive(n - 2);
         }
     }
 }
