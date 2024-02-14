@@ -25,7 +25,7 @@
                 if (i % 9 == 0)
                     s += "Boom";
 
-                Console.WriteLine($"{i} {s}");
+                Console.WriteLine(s == "" ? i : s);
             }
         }
         static void FibonacciItterative(int a, int b, int c, int n)
