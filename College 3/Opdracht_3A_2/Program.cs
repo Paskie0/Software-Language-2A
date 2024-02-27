@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static string[,] testData = new string[15, 2]
+        static readonly string[,] testData = new string[15, 2]
         {
             {"Abstractie", "Het proces van het weglaten van minder essentiële informatie zodat alleen de meest essentiële kenmerken overblijven."},
             {"Algoritme", "Een stapsgewijze procedure voor het uitvoeren van een taak of het berekenen van een waarde."},
