@@ -2,8 +2,8 @@
 {
     class Program
     {
-        static string[] testData = { "Emma Mulder", "Sara De Groot", "Emma Bakker", "Milan Van Dijk", "Emma Smit", "Daan Meijer", "Julia Visser", "Noah Mulder", "Julia Smit", "Sara Van Dijk", "Levi De Groot", "Tess Visser", "Sem Smit", "Levi Visser", "Sara De Boer" };
-        public static List<string> contacts = new List<string>(testData);
+        static string[] testData = ["Emma Mulder", "Sara De Groot", "Emma Bakker", "Milan Van Dijk", "Emma Smit", "Daan Meijer", "Julia Visser", "Noah Mulder", "Julia Smit", "Sara Van Dijk", "Levi De Groot", "Tess Visser", "Sem Smit", "Levi Visser", "Sara De Boer"];
+        public static List<string> contacts = new(testData);
         static void Main()
         {
             GetContacts();

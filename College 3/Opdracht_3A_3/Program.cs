@@ -16,7 +16,10 @@
                 switch (key.Key)
                 {
                     case ConsoleKey.Backspace:
-                        redo.Push(content.Pop());
+                        if (content.Count > 0)
+                        {
+                            redo.Push(content.Pop());
+                        }
                         break;
 
                     case ConsoleKey.Enter:
@@ -25,7 +28,10 @@
                     case ConsoleKey.Z:
                         if (key.Modifiers == ConsoleModifiers.Control)
                         {
-                            redo.Push(content.Pop());
+                            if (content.Count > 0)
+                            {
+                                redo.Push(content.Pop());
+                            }
                         }
                         break;
 
@@ -50,7 +56,7 @@
 
                 Console.Clear();
 
-                foreach (var c in content.Reverse())
+                foreach (char c in content.Reverse())
                 {
                     Console.Write(c);
                 }
