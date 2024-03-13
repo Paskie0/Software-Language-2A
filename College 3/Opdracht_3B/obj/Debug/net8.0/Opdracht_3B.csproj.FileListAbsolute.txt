@@ -1,0 +1,15 @@
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\bin\Debug\net8.0\Opdracht_3B.exe
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\bin\Debug\net8.0\Opdracht_3B.deps.json
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\bin\Debug\net8.0\Opdracht_3B.runtimeconfig.json
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\bin\Debug\net8.0\Opdracht_3B.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\bin\Debug\net8.0\Opdracht_3B.pdb
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.AssemblyInfoInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.AssemblyInfo.cs
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.sourcelink.json
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\refint\Opdracht_3B.dll
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.pdb
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\Opdracht_3B.genruntimeconfig.cache
+C:\Users\Pascal\Code\Software-Language-2A\College 3\Opdracht_3B\obj\Debug\net8.0\ref\Opdracht_3B.dll

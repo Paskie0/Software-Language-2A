@@ -94,17 +94,25 @@
 
             string containerNumber = Console.ReadLine()!;
 
-            int correctContainer = 0;
+            string[] containerHolder = ["", "", "", "", ""];
+
+            //int correctContainer = 0;
 
             for (int i = 0; i < stackCount; i++)
             {
                 if (stacks[i].Contains(containerNumber) == true)
                 {
-                    correctContainer = i + 1;
+                    //Console.WriteLine(stacks[i].Peek());
+                    //correctContainer = i + 1;
+
+                    while (stacks[i].Peek() != containerNumber)
+                    {
+                        stacks[i].Pop();
+                    }
+                    Console.WriteLine($"Container {containerNumber} retrieved succesfuly");
                 }
             }
-
-            Console.WriteLine(correctContainer);
+            Start(stackCount);
         }
 
         static void Start(int stackCount)
