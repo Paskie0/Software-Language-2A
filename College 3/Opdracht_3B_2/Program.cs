@@ -11,6 +11,7 @@
                 type = Bycicle.Type.Electric,
                 frameHeight = 50,
                 Range = 65,
+                rangeType = Bycicle.RangeType.mile,
                 locked = false
             };
 
@@ -30,6 +31,7 @@
                 type = Bycicle.Type.Electric,
                 frameHeight = 43,
                 Range = 110,
+                rangeType = Bycicle.RangeType.kilometer,
                 locked = false,
             };
         }

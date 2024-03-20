@@ -1,0 +1,15 @@
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\bin\Debug\net8.0\Opdracht_4A.exe
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\bin\Debug\net8.0\Opdracht_4A.deps.json
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\bin\Debug\net8.0\Opdracht_4A.runtimeconfig.json
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\bin\Debug\net8.0\Opdracht_4A.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\bin\Debug\net8.0\Opdracht_4A.pdb
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.AssemblyInfoInputs.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.AssemblyInfo.cs
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.csproj.CoreCompileInputs.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.sourcelink.json
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\refint\Opdracht_4A.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.pdb
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\Opdracht_4A.genruntimeconfig.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 4\Opdracht_4A\obj\Debug\net8.0\ref\Opdracht_4A.dll

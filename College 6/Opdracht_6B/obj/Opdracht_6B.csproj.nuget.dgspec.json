@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pasca\\Code\\Software-Language-2A\\College 6\\Opdracht_6B\\Opdracht_6B.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pasca\\Code\\Software-Language-2A\\College 6\\Opdracht_6B\\Opdracht_6B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pasca\\Code\\Software-Language-2A\\College 6\\Opdracht_6B\\Opdracht_6B.csproj",
+        "projectName": "Opdracht_6B",
+        "projectPath": "C:\\Users\\Pasca\\Code\\Software-Language-2A\\College 6\\Opdracht_6B\\Opdracht_6B.csproj",
+        "packagesPath": "C:\\Users\\Pasca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pasca\\Code\\Software-Language-2A\\College 6\\Opdracht_6B\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pasca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

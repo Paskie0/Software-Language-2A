@@ -1,0 +1,15 @@
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\bin\Debug\net8.0-windows\Opdracht_6B.exe
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\bin\Debug\net8.0-windows\Opdracht_6B.deps.json
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\bin\Debug\net8.0-windows\Opdracht_6B.runtimeconfig.json
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\bin\Debug\net8.0-windows\Opdracht_6B.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\bin\Debug\net8.0-windows\Opdracht_6B.pdb
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.AssemblyInfoInputs.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.AssemblyInfo.cs
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.csproj.CoreCompileInputs.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.sourcelink.json
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\refint\Opdracht_6B.dll
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.pdb
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\Opdracht_6B.genruntimeconfig.cache
+C:\Users\Pasca\Code\Software-Language-2A\College 6\Opdracht_6B\obj\Debug\net8.0-windows\ref\Opdracht_6B.dll
